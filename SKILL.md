@@ -3,8 +3,8 @@ name: fly-bottle-method
 description: Dissolve philosophical problems by showing they arise from linguistic confusion—from being "bewitched by grammar." Identify the hidden picture or metaphor causing the muddle, trace how language has...
 license: MIT
 metadata:
+  version: 1.0.4018
   author: sethmblack
-  version: 1.0.4017
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - fly-bottle-method-(philosophical-therapy)
